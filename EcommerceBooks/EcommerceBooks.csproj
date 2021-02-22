@@ -5,9 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NovaPasta\**" />
     <Compile Remove="Views\Home\**" />
+    <Content Remove="NovaPasta\**" />
     <Content Remove="Views\Home\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
     <EmbeddedResource Remove="Views\Home\**" />
+    <None Remove="NovaPasta\**" />
     <None Remove="Views\Home\**" />
   </ItemGroup>
 
@@ -21,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="NovaPasta1\" />
     <Folder Include="wwwroot\images\produtos\" />
   </ItemGroup>
 

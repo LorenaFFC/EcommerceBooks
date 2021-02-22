@@ -33,3 +33,4 @@ C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netc
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrinho.cshtml.g.cs
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrossel.cshtml.g.cs
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Resumo.cshtml.g.cs
+C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\bin\Debug\netcoreapp2.1\livros.json

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using EcommerceBooks.Repositories;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -39,6 +40,10 @@ namespace EcommerceBooks
             );
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddTransient<IDataService, DataService>();
+            services.AddTransient<IProdutoRepository, ProdutoRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -68,9 +73,9 @@ namespace EcommerceBooks
             });
 
             serviceProvider
-                .GetService<ApplicationContext>()
-                .Database
-                .EnsureCreated();
+                .GetService<IDataService>()
+                //  .GetService<ApplicationContext>()
+                .InicializaDB();
         }
     }
 }
