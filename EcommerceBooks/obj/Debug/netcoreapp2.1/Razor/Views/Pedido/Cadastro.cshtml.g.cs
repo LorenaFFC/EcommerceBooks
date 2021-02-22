@@ -122,7 +122,7 @@ using EcommerceBooks.Models;
                     ");
             EndContext();
             BeginContext(2003, 55, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d1eae29e64a4f5bb6480a4c2605c1e5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4da42001c9a84a839becd560b05e793d", async() => {
                 BeginContext(2029, 20, true);
                 WriteLiteral("[Selecione o estado]");
                 EndContext();
@@ -147,7 +147,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2079, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc8b535250db4a498c0a09e6502bfbd5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d36541a1d6c456e860ef84013bb54fd", async() => {
                 BeginContext(2098, 4, true);
                 WriteLiteral("Acre");
                 EndContext();
@@ -169,7 +169,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2132, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "57e1e41ce7d94d1c8a1fa9562b94c38d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d71d0be1bed042549000390bef93e73c", async() => {
                 BeginContext(2151, 7, true);
                 WriteLiteral("Alagoas");
                 EndContext();
@@ -191,7 +191,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2188, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "de5a66798fe647278ac884af5dbcba5e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00ba280e6de6403697b226c89138b302", async() => {
                 BeginContext(2207, 5, true);
                 WriteLiteral("Amapá");
                 EndContext();
@@ -213,7 +213,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2242, 36, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb60bf786d7b483b930713e778c3f4c4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ac8db582f0b24324b61b2cb84caf897b", async() => {
                 BeginContext(2261, 8, true);
                 WriteLiteral("Amazonas");
                 EndContext();
@@ -235,7 +235,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2299, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "505e4941ecae449989def32400fd2f90", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a36d64dc8c0e49719163d10cba064203", async() => {
                 BeginContext(2318, 5, true);
                 WriteLiteral("Bahia");
                 EndContext();
@@ -257,7 +257,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2353, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0cf6fce9df314d92937f468f4103f188", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83159311b0034389bf6098d1250405f5", async() => {
                 BeginContext(2372, 5, true);
                 WriteLiteral("Ceará");
                 EndContext();
@@ -279,7 +279,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2407, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "119912882f4a46fba8f1c0f50d05d58d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da561475dacb4dc38e4b3f9af7e08567", async() => {
                 BeginContext(2426, 16, true);
                 WriteLiteral("Distrito Federal");
                 EndContext();
@@ -301,7 +301,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2472, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8eea40c642a84cf1898326416275f4b9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3421b4f63787439ab78d34d847dcbbf8", async() => {
                 BeginContext(2491, 14, true);
                 WriteLiteral("Espírito Santo");
                 EndContext();
@@ -323,7 +323,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2535, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2696369e9f14810a53559fe52183de4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "980acc42a79a424b94e1c3104d11d382", async() => {
                 BeginContext(2554, 5, true);
                 WriteLiteral("Goiás");
                 EndContext();
@@ -345,7 +345,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2589, 36, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6046e96542b04459be683ee7dfab6e43", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb5c41964b934940a4aa24a65b01b927", async() => {
                 BeginContext(2608, 8, true);
                 WriteLiteral("Maranhão");
                 EndContext();
@@ -367,7 +367,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2646, 39, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ebe59cde482f4c42ac2a375dabef6b0e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d1a8721ba15c45049d58f105f2ced162", async() => {
                 BeginContext(2665, 11, true);
                 WriteLiteral("Mato Grosso");
                 EndContext();
@@ -389,7 +389,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2706, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f918c436afe455baa0facf344943e78", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "78dab24f16144da28cfa75cc0938996d", async() => {
                 BeginContext(2725, 18, true);
                 WriteLiteral("Mato Grosso do Sul");
                 EndContext();
@@ -411,7 +411,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2773, 40, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aa9887ba8fdc4b7fa53ae35ca871f30d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "892e48bf157243ada179589ed067fc1c", async() => {
                 BeginContext(2792, 12, true);
                 WriteLiteral("Minas Gerais");
                 EndContext();
@@ -433,7 +433,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2834, 32, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af73068679b64d8699bcd438c6c2fde0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f98138ba63134d468f3dc292b75c25cb", async() => {
                 BeginContext(2853, 4, true);
                 WriteLiteral("Pará");
                 EndContext();
@@ -455,7 +455,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2887, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a7cbcf267f5249a68664dab9705b961d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75b02cc741cd4118bbd1de0fafac72ab", async() => {
                 BeginContext(2906, 7, true);
                 WriteLiteral("Paraíba");
                 EndContext();
@@ -477,7 +477,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2943, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72ca0cbef33745a59184ca0bcc5aa7ab", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3898df3af91c4914b5aaa5a86708a3dd", async() => {
                 BeginContext(2962, 6, true);
                 WriteLiteral("Paraná");
                 EndContext();
@@ -499,7 +499,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(2998, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c9422f8d695b409f81bba8cba793d83e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "77ff8801cb464e52bb3a80eab52e97df", async() => {
                 BeginContext(3017, 10, true);
                 WriteLiteral("Pernambuco");
                 EndContext();
@@ -521,7 +521,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3057, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c82e7db78cef434ca83bd2283302a684", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b30fa144cdf84088aa06e2ada018fc9a", async() => {
                 BeginContext(3076, 5, true);
                 WriteLiteral("Piauí");
                 EndContext();
@@ -543,7 +543,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3111, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "39fb73b2a0a4412fa564b164ad3a92d9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c375c8983d24dcdaec5501d9c5aaf69", async() => {
                 BeginContext(3130, 14, true);
                 WriteLiteral("Rio de Janeiro");
                 EndContext();
@@ -565,7 +565,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3174, 47, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e3427580f16d4c1ab5e4cce6cddd287b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d91b02cdce240229995c8ba831530a4", async() => {
                 BeginContext(3193, 19, true);
                 WriteLiteral("Rio Grande do Norte");
                 EndContext();
@@ -587,7 +587,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3242, 45, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ddfd65094d84ce68b016562f5b1fa12", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "efe143271a914980958a22f868189c18", async() => {
                 BeginContext(3261, 17, true);
                 WriteLiteral("Rio Grande do Sul");
                 EndContext();
@@ -609,7 +609,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3308, 36, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "120de11205de4769876149b2ac7b406f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75d1e1d624aa477998ea6e48de33c681", async() => {
                 BeginContext(3327, 8, true);
                 WriteLiteral("Rondônia");
                 EndContext();
@@ -631,7 +631,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3365, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4899f10aa4284113a0e59f4777c1c46c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cafa7b8d8288497cbc28add4f1d481fb", async() => {
                 BeginContext(3384, 7, true);
                 WriteLiteral("Roraima");
                 EndContext();
@@ -653,7 +653,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3421, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6f81fbbc7f9442cac03731debf9879a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "093bfc1b67de4a79965156f54e7395b2", async() => {
                 BeginContext(3440, 14, true);
                 WriteLiteral("Santa Catarina");
                 EndContext();
@@ -675,7 +675,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3484, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f30305853cb4941a0226173c35d0330", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fed9f82ad554c16898413d58126177e", async() => {
                 BeginContext(3503, 9, true);
                 WriteLiteral("São Paulo");
                 EndContext();
@@ -697,7 +697,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3542, 35, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "43325d1d26a244e8ad96fa8e3949a92f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ce20c822af34111ae337eacfad03e91", async() => {
                 BeginContext(3561, 7, true);
                 WriteLiteral("Sergipe");
                 EndContext();
@@ -719,7 +719,7 @@ using EcommerceBooks.Models;
             WriteLiteral("\n                    ");
             EndContext();
             BeginContext(3598, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f0ead70ce34049acac344f13e9315cb1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e74ff8d1f6e94ac4b3ca9c8ca44f7d0c", async() => {
                 BeginContext(3617, 9, true);
                 WriteLiteral("Tocantins");
                 EndContext();
