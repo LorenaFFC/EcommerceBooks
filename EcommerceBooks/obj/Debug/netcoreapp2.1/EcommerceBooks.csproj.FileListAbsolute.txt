@@ -16,10 +16,6 @@ C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netc
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.TagHelpers.input.cache
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.TagHelpers.output.cache
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.RazorCoreGenerate.cache
-C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
-C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -33,3 +29,7 @@ C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netc
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.pdb
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.genruntimeconfig.cache
 C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\EcommerceBooks.csproj.CopyComplete
+C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Cadastro.cshtml.g.cs
+C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrinho.cshtml.g.cs
+C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Carrossel.cshtml.g.cs
+C:\Users\loren\Desktop\Applications\EcommerceBooks\EcommerceBooks\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Resumo.cshtml.g.cs
