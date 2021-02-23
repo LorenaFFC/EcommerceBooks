@@ -40,9 +40,15 @@ namespace EcommerceBooks
             );
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddDistributedMemoryCache();
+            services.AddSession();
+
 
             services.AddTransient<IDataService, DataService>();
             services.AddTransient<IProdutoRepository, ProdutoRepository>();
+            services.AddTransient<IPedidoRepository, PedidoRepository>();
+            services.AddTransient<IItemPedidoRepository, ItemPedidoRepository>();
+            services.AddTransient<ICadastroRepository, CadastroRepository>();
 
         }
 
@@ -63,13 +69,14 @@ namespace EcommerceBooks
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseCookiePolicy();
 
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Pedido}/{action=Carrossel}/{id?}");
+                    template: "{controller=Pedido}/{action=Carrossel}/{codigo?}");
             });
 
             serviceProvider
@@ -77,5 +84,9 @@ namespace EcommerceBooks
                 //  .GetService<ApplicationContext>()
                 .InicializaDB();
         }
+    }
+
+    internal interface IPediddoRepository
+    {
     }
 }
